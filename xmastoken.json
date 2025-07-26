@@ -1,6 +1,6 @@
 [
 {"SuperFunction": "rebuild",
-  "Skip": ["Freezer", "Rocketeer", "Sniper"],
+  "Skip": [],
   "Be": true},
 {"TowerPlaceCost":925,"TowerPlaced":"Toxicnator","TowerVector":"2.1361026763916016, 0.20931702852249146, 21.17555046081543","Rotation":"0","TowerA1":"3122.2796811070293"},
 {"TowerUpgraded":2.1361026763916017,"UpgradeCost":0,"UpgradePath":2},
