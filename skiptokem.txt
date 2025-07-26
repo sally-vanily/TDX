@@ -1,0 +1,25 @@
+_G.WaveConfig = {
+    ["WAVE 0"] = 0,     -- không đổi
+    ["WAVE 1"] = 44,    -- 59 - 15
+    ["WAVE 2"] = 44,
+    ["WAVE 3"] = 44,
+    ["WAVE 4"] = 44,
+    ["WAVE 5"] = 44,
+    ["WAVE 6"] = 44,
+    ["WAVE 7"] = 44,
+    ["WAVE 8"] = 44,
+    ["WAVE 9"] = 44,
+    ["WAVE 10"] = 0,   -- giữ nguyên theo chiến thuật
+    ["WAVE 11"] = 44,
+    ["WAVE 12"] = 30,
+    ["WAVE 13"] = 140,  -- 159 - 15
+    ["WAVE 14"] = 40,
+    ["WAVE 15"] = 144,
+    ["WAVE 16"] = 44,
+    ["WAVE 17"] = 140,  -- 139 - 15
+    ["WAVE 18"] = 444,  -- 459 - 15
+    ["WAVE 19"] = 44,
+    ["WAVE 20"] = 44    -- giả định ban đầu là 59, trừ 15 còn 44
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Baolong12355/loader.lua/refs/heads/main/auto_skip.lua"))()
